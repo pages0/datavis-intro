@@ -3,25 +3,25 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> Larry Boateng Asante
+> Reilly Noonan Grant |
 
 What are your GitHub usernames?
-> LarryAsante
+> Pages0 |
 
 What do you prefer to be called?
-> Larry
+> Reilly |
 
 Why are you taking this course?
-> I'd like to learn techniques and concepts that'll help me use data to tell beautiful stories, visually. 
+> It seems really cool! Data is interesting, and Charlie has a good reputation as a teacher.|
 
 What are your concerns about this course?
-> I have very limited practical knowledge of JavaScript.
+> Not having enough relevent statistical knowledge to be able to make meaningful use of data. |
 
 What topic in this course are you most excited to cover?
-> Interactive Visualizations!
+> Everything. |
 
 Do you have any questions for me?
-> None so far. 
+> Not right now. |
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC395/syllabus/) for course policies.
