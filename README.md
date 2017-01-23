@@ -29,13 +29,18 @@ Do you have any questions for me?
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC395/syllabus/) for course policies.
 
 What work do you need to complete for this course?
-> ...
+> Participate in class, Complete Labs, and complete the final project
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> Grade goes down by 1.5%
 
 What happens if you turn in a lab late?
-> ...
+> Lose a full letter grade for each day it is late
 
 When are you free during my scheduled office hours?
-> ...
+> Office hours are:
+Monday, 10am–noon
+Tuesday, 10am–11am
+Wednesday, 10am–noon
+Friday, 10am–11am 
+Reilly can make all but Monday and Wednesday 11am-noon
