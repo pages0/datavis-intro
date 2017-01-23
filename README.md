@@ -45,3 +45,5 @@ Wednesday, 10am–noon
 Friday, 10am–11am 
 
 Reilly can make all but Monday and Wednesday 11am-noon
+
+Larry will set up meetings via appointments as he's not too sure of his schedule yet. 
